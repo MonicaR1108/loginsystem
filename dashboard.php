@@ -1,5 +1,5 @@
 <?php
-include 'db.php';
+include 'config/db.php';
 
 if(!isset($_SESSION['user_id'])){
     header("Location: login.php");
@@ -9,7 +9,7 @@ if(!isset($_SESSION['user_id'])){
 <html>
 <head>
     <title>Dashboard</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 

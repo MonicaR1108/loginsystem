@@ -1,11 +1,11 @@
 <!-- <link re="stylesheet" href="style.css"> -->
 
-<?php include 'db.php'; ?>
+<?php include 'config/db.php'; ?>
 <!DOCTYPE html>
 <html>
     <head>
         <title>Registeration Form</title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 

@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="assets/style.css">
 
 <form action="login_process.php" method="POST">
     <h2>Login</h2>
