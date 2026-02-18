@@ -1,0 +1,155 @@
+/* body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #74ebd5, #acb6e5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+} */
+
+form {
+    background: white;
+    padding: 30px;
+    width: 350px;
+    border-radius: 12px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
+}
+
+form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 6px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+}
+
+input:focus {
+    border-color: #4CAF50;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 15px;
+    background: #4CAF50;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    text-decoration: none;
+    color: #030203;
+}
+
+/* a:hover {
+    color: #4CAF50; */
+
+span:hover{
+    color: rgb(4, 4, 7);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #95ad7c, #4d7e84);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.register-box {
+    background: white;
+    width: 400px;
+    padding: 35px;
+    border-radius: 15px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.register-box h2 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #333;
+    font-size: 24px;
+}
+
+.register-box label {
+    font-size: 14px;
+    font-weight: bold;
+    color: #444;
+    display: block;
+    margin-top: 12px;
+    padding-top: 20px;
+}
+
+.register-box input {
+    width: 100%;
+    padding: 12px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    outline: none;
+    font-size: 14px;
+}
+
+.register-box input:focus {
+    border-color: #ff5e62;
+    box-shadow: 0px 0px 5px rgba(255, 94, 98, 0.6);
+}
+
+.register-box button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 20px;
+    background: #ff5e62;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.register-box button:hover {
+    background: #e94b50;
+}
+
+label {
+    margin-top: 10px;
+    padding: auto;
+}
+
+.register-box a {
+    display: block;
+    text-align: center;
+    margin-top: 18px;
+    text-decoration: none;
+    font-size: 14px;
+    color: #0d0d0d;
+}
+
+.register-box a:hover {
+    color: #ff5e62;
+}
+a,span:hover{
+   color: #0a4ca2;
+}
